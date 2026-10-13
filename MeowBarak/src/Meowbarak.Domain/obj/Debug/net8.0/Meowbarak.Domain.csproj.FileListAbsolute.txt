@@ -1,0 +1,11 @@
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\bin\Debug\net8.0\Meowbarak.Domain.deps.json
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\bin\Debug\net8.0\Meowbarak.Domain.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\bin\Debug\net8.0\Meowbarak.Domain.pdb
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.AssemblyInfoInputs.cache
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.AssemblyInfo.cs
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.csproj.CoreCompileInputs.cache
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\refint\Meowbarak.Domain.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\Meowbarak.Domain.pdb
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Domain\obj\Debug\net8.0\ref\Meowbarak.Domain.dll

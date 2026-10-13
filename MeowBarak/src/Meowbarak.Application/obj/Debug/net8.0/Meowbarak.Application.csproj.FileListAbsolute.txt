@@ -1,0 +1,15 @@
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\bin\Debug\net8.0\Meowbarak.Application.deps.json
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\bin\Debug\net8.0\Meowbarak.Application.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\bin\Debug\net8.0\Meowbarak.Application.pdb
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\bin\Debug\net8.0\Meowbarak.Domain.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\bin\Debug\net8.0\Meowbarak.Domain.pdb
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.csproj.AssemblyReference.cache
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.AssemblyInfoInputs.cache
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.AssemblyInfo.cs
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.csproj.CoreCompileInputs.cache
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbara.C970178E.Up2Date
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\refint\Meowbarak.Application.dll
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\Meowbarak.Application.pdb
+F:\programming\projects\nemoone\meo\TelegramTest\MeowBarak\src\Meowbarak.Application\obj\Debug\net8.0\ref\Meowbarak.Application.dll

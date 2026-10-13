@@ -1,0 +1,6 @@
+@Meowbarak.API_HostAddress = http://localhost:5252
+
+GET {{Meowbarak.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
